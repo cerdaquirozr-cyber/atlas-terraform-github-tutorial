@@ -28,5 +28,4 @@ Usa la versión más reciente de Terraform (≥ 1.14 o superior) y migra a **Ter
 
 1. Clona tu fork:
    ```bash
-   git clone https://github.com/cerdaquirozrz-cyber/atlas-terraform-github-tutorial.git
-   cd atlas-terraform-github-tutorial
+   git clone https://github.com/cerdaquirozr-cyber/atlas-terraform-github-tutorial
